@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Portfolio Reference vs Next.js Replication
+
+<img width="1920" height="1032" alt="Screenshot 2026-09-07 141246" src="https://github.com/user-attachments/assets/14b8304a-126a-49a3-a27f-b690b83cb118" />
+<img width="1920" height="1032" alt="Screenshot 2026-09-07 141234" src="https://github.com/user-attachments/assets/5e174ee7-54fc-4d1b-bf07-95c5d01b2439" />
+
+The original Portfolio Reference can be found here: https://dwyanesido.netlify.app/
+
 ## Getting Started
 
 First, run the development server:
